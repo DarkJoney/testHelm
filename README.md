@@ -1,2 +1,1 @@
-# testHelm
-testhelm prometheus nginx grafana
+# prometheus-grafana-helm-chart
